@@ -1,0 +1,46 @@
+airline_id,airline_code,airline_name,country
+1,AA,American Airlines,USA
+2,BA,British Airways,UK
+3,EK,Emirates,UAE
+4,LH,Lufthansa,Germany
+5,SQ,Singapore Airlines,Singapore
+6,DL,Delta Air Lines,USA
+7,UA,United Airlines,USA
+8,QF,Qantas Airways,Australia
+9,AF,Air France,France
+10,KL,KLM Royal Dutch Airlines,Netherlands
+11,AC,Air Canada,Canada
+12,AZ,Alitalia,Italy
+13,CX,Cathay Pacific Airways,Hong Kong
+14,JL,Japan Airlines,Japan
+15,NH,All Nippon Airways,Japan
+16,AI,Air India,India
+17,SA,South African Airways,South Africa
+18,OS,Austrian Airlines,Austria
+19,IB,Iberia,Spain
+20,SK,Scandinavian Airlines (SAS),Sweden/Denmark/Norway
+21,VS,Virgin Atlantic Airways,UK
+22,NZ,Air New Zealand,New Zealand
+23,TG,Thai Airways International,Thailand
+24,MH,Malaysia Airlines,Malaysia
+25,LX,Swiss International Air Lines,Switzerland
+26,OU,Croatia Airlines,Croatia
+27,TP,TAP Air Portugal,Portugal
+28,TK,Turkish Airlines,Turkey
+29,SV,Saudi Arabian Airlines,Saudi Arabia
+30,QR,Qatar Airways,Qatar
+31,ET,Ethiopian Airlines,Ethiopia
+32,RO,TAROM,Romania
+33,JU,Air Serbia,Serbia
+34,BI,Royal Brunei Airlines,Brunei
+35,FM,Shanghai Airlines,China
+36,KE,Korean Air,South Korea
+37,VN,Vietnam Airlines,Vietnam
+38,PR,Philippine Airlines,Philippines
+39,CI,China Airlines,Taiwan
+40,MS,EgyptAir,Egypt
+41,SN,Brussels Airlines,Belgium
+42,LY,EL AL Israel Airlines,Israel
+43,RJ,Royal Jordanian Airlines,Jordan
+44,MF,XiamenAir,China
+45,GA,Garuda Indonesia,Indonesia
