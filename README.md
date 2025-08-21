@@ -51,7 +51,7 @@ This repository contains an end-to-end data engineering project that ingests on-
       - Latest Load Lookup: Query the source SQL database (dbo.booking) to find the latest booking_date.
     - Use Copy Data activity to extract only new or updated records:
     
-        SELECT * FROM dbo.FactBookings WHERE booking_date > '@{activity('LastLoad').output.firstRow.lastload}'AND booking_date <= '@{activity('LatestLoad').output.firstRow.latestload}'
+        SELECT * FROM dbo.booking WHERE booking_date > '@{activity('LastLoad').output.firstRow.lastload}'AND booking_date <= '@{activity('LatestLoad').output.firstRow.latestload}'
     
       - Load the extracted records into a Parquet file in the Bronze layer.
     - Update the last_load.json file in the data lake to reflect the latest processed date, ensuring the next run only ingests new data.
